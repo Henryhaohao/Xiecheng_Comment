@@ -27,9 +27,11 @@ pip3 install -r requirements.txt
 ![enter image description here](Spiders/wordcloud.jpg)
 > - **携程景点评论**<br><br>
 ![enter image description here](Pic/comment.png)
-> - **爬取评论内容**<br><br>
+> - **爬取评论(3010条耗时1秒)**<br><br>
+![enter image description here](Pic/run.gif)
+> - **评论内容**<br><br>
 ![enter image description here](Pic/data.png)
-> - **爬取评论数**<br><br>
+> - **评论数**<br><br>
 ![enter image description here](Pic/count.png)
 
 

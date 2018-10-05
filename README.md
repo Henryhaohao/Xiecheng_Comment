@@ -1,4 +1,4 @@
-多线程Threading爬取携程的丽江古城景点评论并生成词云 ![enter image description here](Pic/logo.png)
+多线程爬取携程的丽江古城景点评论并生成词云 ![enter image description here](Pic/logo.png)
 ===========================
 ![](https://img.shields.io/badge/Python-3.6.3-green.svg) ![](https://img.shields.io/badge/requests-2.18.4-green.svg) ![](https://img.shields.io/badge/pymongo-3.6.1-green.svg) ![](https://img.shields.io/badge/wordcloud-1.4.1-green.svg) ![](https://img.shields.io/badge/numpy-1.15.0-green.svg) ![](https://img.shields.io/badge/jieba-0.39-green.svg) ![](https://img.shields.io/badge/matplotlib-2.2.2-green.svg) ![](https://img.shields.io/badge/Pillow-5.3.0-green.svg)  
 ### 携程官网 - http://you.ctrip.com/
@@ -23,16 +23,13 @@ Version: Python3
 pip3 install -r requirements.txt
 ```
 ## :dolphin:运行截图
-> - 词云图
+> - **词云图**<br><br>
 ![enter image description here](Spiders/wordcloud.jpg)
-
-> - 携程景点评论
+> - **携程景点评论**<br><br>
 ![enter image description here](Pic/comment.png)
-
-> - 爬取评论内容
+> - **爬取评论内容**<br><br>
 ![enter image description here](Pic/data.png)
-
-> - 爬取评论数
+> - **爬取评论数**<br><br>
 ![enter image description here](Pic/count.png)
 
 
